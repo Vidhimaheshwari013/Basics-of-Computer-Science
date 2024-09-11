@@ -110,7 +110,8 @@
     - (Open Systems Interconnection) model is a conceptual framework used to understand and standardize how different network protocols interact and function.
 
     - It divides network communication into seven layers, each with specific responsibilities:
-      ![image](https://github.com/user-attachments/assets/44472b7a-b4e5-4d1e-ae42-16dfaf890767)
+![image](https://github.com/user-attachments/assets/677b4674-dc29-4ac2-ad8a-5418bada5a01)
+
 
         • Physical Layer : Deals with the physical connection between devices, including cables, switches, and the electrical signals transmitted over them.
 
@@ -181,7 +182,10 @@
 # ![image](https://github.com/user-attachments/assets/61da6374-4331-4810-9f66-0427de792173)
 
 # Protocols
-    ![image](https://github.com/user-attachments/assets/744e516c-a45a-4570-82cd-85896b6fc96d)
+ ![image](https://github.com/user-attachments/assets/8b2031dd-707e-4a02-b513-d9654bf6e02b)
+
+ 
+
 
 
 
