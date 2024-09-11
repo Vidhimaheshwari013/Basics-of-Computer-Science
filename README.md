@@ -1,5 +1,6 @@
 # keywords
- 
+ ![image](https://github.com/user-attachments/assets/7750e1dc-69e4-417e-8b08-ca2b8d332e47)
+
   Desktop - personal computer 
    It has mainly three parts :
 1. Computation - Computation refers to the process of performing mathematical calculations or processing data.
@@ -25,13 +26,15 @@
 6. Open source and Closed source                                  
 ![image](https://github.com/user-attachments/assets/752b51c2-2c37-4027-8354-39d2de744ba8)
 
-    ~ open source - The source code of open-source software is made freely available to the public. Anyone can inspect, modify, and              distribute the code.This approach fosters collaboration, transparency, and innovation.                 
-   ~ eg-: Linux OS, Mozilla Firefox web browser                                  
-   
-   ~ closed source - Closed-source software has proprietary code that is not accessible to the public. Only the original developers can         modify or inspect the code. This model is often used to protect intellectual property and maintain control over the software.         
-   ~ eg-: Microsoft windows, Adobe Photoshop
+    ~ open source - The source code of open-source software is made freely                           available to the public.               
+                  - Anyone can inspect, modify, and distribute the code.        
+                  - This approach fosters collaboration, transparency, and                           innovation.             
+                  ~ eg-: Linux OS, Mozilla Firefox web browser                                           
+    ~ closed source - Closed-source software has proprietary code that is not                          accessible to the public.        
+                    - Only the original developers can modify or inspect the                           code.          
+                    - This model is often used to protect intellectual property                        and maintain control over the software.                    
+                    ~ eg-: Microsoft windows, Adobe Photoshop          
 ![image](https://github.com/user-attachments/assets/54595682-c3cb-4c82-b370-0989c5d554a6)
-
 
 8. Operating system
    - An Operating system is system software that manages computer hardware and software resources and provides common services for              computer programs. it act as an intermediary between users and computer hardware.              
@@ -84,10 +87,14 @@
 
 21. API (Application Programming Interface)
   - It is a set of rules and protocols that allows different software applications to communicate with each other. APIs can be used to         connect Frontend and Backend.
+![image](https://github.com/user-attachments/assets/2770b0a3-83e9-49c7-9ddb-c8fda3f409f1)
+
 
 22. Full Stack Development 
-   - It refers to the practice of working on both the front-end and back-end aspects of web applications.A full stack developer is             proficient in all these areas, allowing them to build and maintain a complete web application from start to finish.       
-   - A full stack developer is proficient in all these areas, allowing them to build and maintain a complete web application from start       to finish.     
+   ![image](https://github.com/user-attachments/assets/40df0bd0-d3e7-4132-81bc-3615d8714270)
+
+   - It refers to the practice of working on both the front-end and back-end aspects of web applications.A full stack developer is proficient in all these areas, allowing them to build and maintain a complete web application from start to finish.       
+   - A full stack developer is proficient in all these areas, allowing them to build and maintain a complete web application from start to finish.     
 
 23. OSI MODEL
     - (Open Systems Interconnection) model is a conceptual framework used to understand and standardize how different network protocols          interact and function.
@@ -124,14 +131,13 @@
    - AMD RISC :- ARM
 
 27. Hypervisor 
-  - A hypervisor is software that enables virtualization by allowing multiple virtual machines (VMs) to run on a single physical host         machine.
-  - It abstracts and allocates physical hardware resources (like CPU, memory, and storage) to these virtual machines.
+  - A hypervisor is software that enables virtualization by allowing multiple         virtual machines (VMs) to run on a single physical host machine.
+  - It abstracts and allocates physical hardware resources (like CPU, memory,         and storage) to these virtual machines.
   - There are two main types of hypervisors:
-     • Type 1 Hypervisor (Bare-Metal Hypervisor): Runs directly on the physical hardware without an underlying operating system.
-     • Type 2 Hypervisor (Hosted Hypervisor): Runs on top of an existing operating system, which in turn runs on the physical hardware.
+     • Type 1 Hypervisor (Bare-Metal Hypervisor): Runs directly on the physical hardware without an underlying operating system.                  
+     • Type 2 Hypervisor (Hosted Hypervisor): Runs on top of an existing operating system, which in turn runs on the physical hardware.                   
 ![image](https://github.com/user-attachments/assets/ec6609f0-93e1-4e4e-87eb-fb41a1b1afdf)
 
- 
   - Hypervisors are fundamental in cloud computing and data center virtualization, enabling efficient resource utilization and                scalability.
 
 28. Virtual Machine 
