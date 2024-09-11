@@ -1,4 +1,5 @@
 # keywords
+ 
   Desktop - personal computer 
    It has mainly three parts :
 1. Computation - Computation refers to the process of performing mathematical calculations or processing data.
@@ -58,6 +59,8 @@
   - It is a type of integrated circuit that can be programmed or reprogrammed after manufacturing. It consists of an array of programmable logic block and interconnects that can be configured to perform various digital functions.
 
 16. ISP (Internet Service Provider)
+![image](https://github.com/user-attachments/assets/a0ecc844-8b78-49f7-8f22-c9187614be84)
+  
   - It is a company that offers access to the internet.
   - They provide various services such as broadband, fiber-optic, DSL, and satellite connections.
 
@@ -107,6 +110,7 @@
 25. Ethernet 
    - Ethernet is a widely used networking technology that operates primarily at the Data Link Layer (Layer 2) of the OSI model.
    - It provides a method for devices to communicate over a local area network (LAN) using wired connections.
+![image](https://github.com/user-attachments/assets/5b5eec91-59c2-414a-af4b-6366edf449af)
 
 26. Architecture
    - X-86 :- Intel
@@ -119,6 +123,8 @@
   - There are two main types of hypervisors:
      • Type 1 Hypervisor (Bare-Metal Hypervisor): Runs directly on the physical hardware without an underlying operating system.
      • Type 2 Hypervisor (Hosted Hypervisor): Runs on top of an existing operating system, which in turn runs on the physical hardware.
+![image](https://github.com/user-attachments/assets/ec6609f0-93e1-4e4e-87eb-fb41a1b1afdf)
+
  
   - Hypervisors are fundamental in cloud computing and data center virtualization, enabling efficient resource utilization and                scalability.
 
