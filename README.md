@@ -206,15 +206,13 @@
  - object-oriented programming system
  - C + OOPS = C++
  - It contains :
-   a.class
-   b.object
-   c.reference
-   d.construction
+                 ![image](https://github.com/user-attachments/assets/b8c538da-3d2c-4ebf-a1b8-081d213d0605)
  
- # K8S 
+# K8S 
  - (K8S)kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management.
  
  # DevOps
+ ![image](https://github.com/user-attachments/assets/6872b2ec-209c-4438-bca2-7939525c7e8d)
  - dev means devtops and ops means operation.
 CI/CD-continous integration/continous deployment. now ,this is called platform engineer .
 
@@ -223,10 +221,44 @@ CI/CD-continous integration/continous deployment. now ,this is called platform e
 
  # S3 bucket 
  - Amazon Simple Storage Service (Amazon S3) is an object storage service offering industry-leading scalability, data availability, security, and performance.
- 
 
- 
+# Von Neumann architecture and harvard architecture 
+![image](https://github.com/user-attachments/assets/35895153-5f68-465c-850b-d781f3aeaf83)
+- The term "von Neumann architecture" has evolved to refer to any stored-program computer in which an instruction fetch and a data operation cannot occur at the same time.
 
+# How to make a virtual machine ? 
+1.make an account on aws.
 
+2.select ec2 service.
 
+3.inside ec2 make an instance,
 
+4.For an instance select an os( operating system),
+
+5.make an key pair ( the key pair will automatically be downloaded).
+
+6 while making key pair select ppk type ,
+
+7.an public ip will be generated,
+
+8.launch the instance
+
+9. Install an putty ( search on google how to download putty for (the operating system you have chosen) and download it.
+
+10. After that open the putty and on ssh option paste the public ip from the instance,
+
+11.in the aut option select credentials and browse the key pair you have created in instance,
+
+12. Now to download a web server open putty and type :-sudo apt update, after that type :-sudo apt Install apache2,
+
+13. to remove the dollar sign type:- sudo su,
+
+14. after that the next step is to type :-/var/www/html/
+
+15. enter the above and on the next line type index.html
+
+16.after that type :-rm index.html
+
+17.enter the above and type :-vi index.html ( by writing this a new page will appear in which you have to either type html code aur copy paste it from GitHub),
+
+18.to run the code type :- control+c ,shift+ ,wq and enter
