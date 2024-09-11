@@ -132,7 +132,7 @@
 # Semiconductors 
 ![image](https://github.com/user-attachments/assets/35d35a2a-24bb-480d-8026-e45e7c8ecd9e)
 
-    - Semiconductors, also known as integrated circuits (ICs) or computer chips, are essential components of computers and other                electronic devices.
+    - Semiconductors, also known as integrated circuits (ICs) or computer chips, are essential components of computers and other electronic devices.
 
 # Ethernet 
    - Ethernet is a widely used networking technology that operates primarily at the Data Link Layer (Layer 2) of the OSI model.
@@ -148,7 +148,7 @@
   - A hypervisor is software that enables virtualization by allowing multiple         virtual machines (VMs) to run on a single physical host machine.
   - It abstracts and allocates physical hardware resources (like CPU, memory,         and storage) to these virtual machines.
  
-  - There are two main types of hypervisors:
+  - There are two main types of hypervisors:                       
       • Type 1 Hypervisor (Bare-Metal Hypervisor): Runs directly on the physical hardware without an underlying operating system.                  
 
      • Type 2 Hypervisor (Hosted Hypervisor): Runs on top of an existing operating system, which in turn runs on the physical hardware.                   
