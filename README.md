@@ -189,20 +189,40 @@
  - It is technique of securing information and communications through use of codes so that only those person for whom the information is intended can understand it and process it.
 
  # Block chain 
+ ![image](https://github.com/user-attachments/assets/2436979c-e5d2-42c4-b576-f13093079a22)
+
  - Blockchain is a digital ledger that stores data in blocks that are linked together to form a chain. It's a decentralized, public ledger that allows for transparent information sharing and secure transactions across a network of participants.
    
  # Crypto currency 
  - Blockchain is the technology that enables the existence of cryptocurrency, such as Bitcoin, Ethereum, etc.
+
+   ![image](https://github.com/user-attachments/assets/f8554b52-aa27-48d4-a0e8-df6365caf88e)
 
 - Bitcoin - it is a innovative payment network and a new kind of money. Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and everyone can take part.
 
 - Eethereum - It is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.Ethereum and its apps are transparent and open source.
 
  # OOPS
+ - object-oriented programming system
+ - C + OOPS = C++
+ - It contains :
+   a.class
+   b.object
+   c.reference
+   d.construction
+ 
  # K8S 
+ - (K8S)kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management.
+ 
  # DevOps
+ - dev means devtops and ops means operation.
+CI/CD-continous integration/continous deployment. now ,this is called platform engineer .
+
  # Route 53 
+ -Amazon Route 53 is a highly available and scalable Domain Name System (DNS) web service. Route 53 connects user requests to internet applications running on AWS or on-premises.
+
  # S3 bucket 
+ - Amazon Simple Storage Service (Amazon S3) is an object storage service offering industry-leading scalability, data availability, security, and performance.
  
 
  
