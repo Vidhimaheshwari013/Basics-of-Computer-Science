@@ -10,11 +10,13 @@
      - DPU - data processing unit
      - TPU - tensor processing unit
 
-2. Storage - Storage in computing refers to the methods and devices used to save and retrieve data.                        
+2. Storage - Storage in computing refers to the methods and devices used to save and retrieve data.
+   ![image](https://github.com/user-attachments/assets/c335fee0-da8c-4fc2-8140-fd3678ddd9ea)
+                 
         -  primary storage - volatile, fast access to data, small storage, eg-: RAM                                
         -  secondary storage - non-volatile, slow access to data, larger storage, eg-:hard disk, CD
 
-3. Network - Networking involves connecting computers and other devices to share resources and communicate.
+4. Network - Networking involves connecting computers and other devices to share resources and communicate.
 ![image](https://github.com/user-attachments/assets/b44713c4-7199-4377-852b-39e853d782ca)
 
     -  LAN - local area network - private network, Intranet 
@@ -49,10 +51,12 @@
    - It is a closed source like intel and AMD (advanced micro devices). It develop X-86 series under ISA [intruction set architecture] in           1978.
  
  10. ARM (Advance RISC machine)
+ 
  11. RISC (Reduced Instruction Set Computer)
    - It is a close source like ARM [Adavnce risc machine]. It has specific intruction,very fast and efficient.
 
 11. RISC-V
+ ![image](https://github.com/user-attachments/assets/e04ae075-8316-4bb6-95f4-b6c970723451)
    - It is based on RISC principles and develop in 2023 and which is a free open source. It also have a project called SHAKTI.
 
 12. KERNEL
@@ -79,6 +83,7 @@
   - It functions like a phone book for the internet, translating human-friendly domain names (eg-: www.example.com) into IP addresses          (eg-: 192.0.2.1) that computers use to identify each other on the network.
 
 18. VPN (Virtual Private Network)
+ ![image](https://github.com/user-attachments/assets/80fc725c-8dd0-4d4c-b90d-b2ab2486cdb7)
   - A VPN  is a service that creates a secure, encrypted connection over a less secure network, such as the internet. It allows you to         access the internet as if you were connected to a private network, providing privacy and security.
 
 19. Font end 
@@ -94,7 +99,6 @@
 
 22. Full Stack Development 
    ![image](https://github.com/user-attachments/assets/40df0bd0-d3e7-4132-81bc-3615d8714270)
-
    - It refers to the practice of working on both the front-end and back-end aspects of web applications.A full stack developer is proficient in all these areas, allowing them to build and maintain a complete web application from start to finish.       
    - A full stack developer is proficient in all these areas, allowing them to build and maintain a complete web application from start to finish.     
 
@@ -146,9 +150,13 @@
 
 28. Virtual Machine 
   - A virtual machine (VM) is a software-based emulation of a physical computer. It runs an operating system and applications just like a     physical computer, but it operates within a host machine and is managed by a hypervisor.
+![image](https://github.com/user-attachments/assets/13d3f2ca-22d5-427a-9e61-06d933941135)
+
   - VMs enhance flexibility, efficiency, and scalability in IT environments.
 
 29. Cloud Computing
+ ![image](https://github.com/user-attachments/assets/21ad8c84-5189-4748-9400-51f8873faa90)
+ 
   - Cloud computing is a model for delivering computing services over the internet.
   - It allows users to access and use computing resources such as servers, storage, databases, networking, software, and analytics            without managing the underlying hardware.
   
@@ -162,17 +170,10 @@
    - Private Cloud - It is a cloud computing that is dedicated solely to your organisation.
    - Hybrid Cloud- It is any environment that uses both public and private cloud.
 
-33. DSA
+![image](https://github.com/user-attachments/assets/61da6374-4331-4810-9f66-0427de792173)
+
 35. Protocols
     ![image](https://github.com/user-attachments/assets/744e516c-a45a-4570-82cd-85896b6fc96d)
 
-
-   
-37. DeVOPS
-38. Networking devices
-39. TOR
-40. Virtual Machine
-41. 
-42. 
 
 
