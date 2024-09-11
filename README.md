@@ -39,7 +39,9 @@
 8. Operating system
    - An Operating system is system software that manages computer hardware and software resources and provides common services for              computer programs. it act as an intermediary between users and computer hardware.              
    - The most commonly used Operating System(OS)-:               
-      • WINDOWS             
+![image](https://github.com/user-attachments/assets/fd3642ea-e1f8-4348-8d7b-dbea1dad67de)
+
+     • WINDOWS             
       • MACos             
       • LINUX          
 
@@ -118,9 +120,11 @@
      - Each layer only interacts with the layers directly above and below it, which simplifies network design and troubleshooting.
 
 24. Semiconductors 
+![image](https://github.com/user-attachments/assets/35d35a2a-24bb-480d-8026-e45e7c8ecd9e)
+
     - Semiconductors, also known as integrated circuits (ICs) or computer chips, are essential components of computers and other                electronic devices.
 
-25. Ethernet 
+26. Ethernet 
    - Ethernet is a widely used networking technology that operates primarily at the Data Link Layer (Layer 2) of the OSI model.
    - It provides a method for devices to communicate over a local area network (LAN) using wired connections.
 ![image](https://github.com/user-attachments/assets/5b5eec91-59c2-414a-af4b-6366edf449af)
