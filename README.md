@@ -3,7 +3,7 @@
 
   Desktop - personal computer 
    It has mainly three parts :
-# 1. Computation 
+# Computation 
 - Computation refers to the process of performing mathematical calculations or processing data.
      Some terms -: 
      - CPU - central processing unit
@@ -11,119 +11,120 @@
      - DPU - data processing unit
      - TPU - tensor processing unit
 
-# 2. Storage 
+# Storage 
 - Storage in computing refers to the methods and devices used to save and retrieve data.
    ![image](https://github.com/user-attachments/assets/c335fee0-da8c-4fc2-8140-fd3678ddd9ea)
                  
         -  primary storage - volatile, fast access to data, small storage, eg-: RAM                                
         -  secondary storage - non-volatile, slow access to data, larger storage, eg-:hard disk, CD
 
-# 3. Network 
+# Network 
 - Networking involves connecting computers and other devices to share resources and communicate.
 ![image](https://github.com/user-attachments/assets/b44713c4-7199-4377-852b-39e853d782ca)
 
     -  LAN - local area network - private network, Intranet 
     -  WAN - wide area network - public netwrok, Internet
 
-# 4. .SOC (System on a Chip)
+# .SOC (System on a Chip)
    - A System on Chip or an SoC is an integrated circuit that incorporates a majority of components present on a computer. SoC integrates       the replaceable components onto a single chip, thereby reducing the size and increasing efficiency.
 
-6. Open source and Closed source                                  
+# Open source and Closed source                                  
 ![image](https://github.com/user-attachments/assets/752b51c2-2c37-4027-8354-39d2de744ba8)
 
-    ~ open source - The source code of open-source software is made freely                           available to the public.               
+    ~ open source - The source code of open-source software is made free available to the public.               
                   - Anyone can inspect, modify, and distribute the code.        
-                  - This approach fosters collaboration, transparency, and                           innovation.             
+                  - This approach fosters collaboration, transparency, and innovation.             
                   ~ eg-: Linux OS, Mozilla Firefox web browser                                           
-    ~ closed source - Closed-source software has proprietary code that is not                          accessible to the public.        
-                    - Only the original developers can modify or inspect the                           code.          
-                    - This model is often used to protect intellectual property                        and maintain control over the software.                    
+   
+    ~ closed source - Closed-source software has proprietary code that is not accessible to the public.        
+                    - Only the original developers can modify or inspect the code.          
+                    - This model is often used to protect intellectual property and maintain control over the software.                    
                     ~ eg-: Microsoft windows, Adobe Photoshop          
 ![image](https://github.com/user-attachments/assets/54595682-c3cb-4c82-b370-0989c5d554a6)
 
-8. Operating system
+# Operating system
    - An Operating system is system software that manages computer hardware and software resources and provides common services for              computer programs. it act as an intermediary between users and computer hardware.              
    - The most commonly used Operating System(OS)-:               
 ![image](https://github.com/user-attachments/assets/fd3642ea-e1f8-4348-8d7b-dbea1dad67de)
 
-     • WINDOWS             
       • MACos             
+      • WINDOWS             
       • LINUX          
 
-9. CISC (Complex Instruction Set Computer)
+# CISC (Complex Instruction Set Computer)
    - It is a closed source like intel and AMD (advanced micro devices). It develop X-86 series under ISA [intruction set architecture] in           1978.
  
- 10. ARM (Advance RISC machine)
+# ARM (Advance RISC machine)
  
- 11. RISC (Reduced Instruction Set Computer)
+# RISC (Reduced Instruction Set Computer)
    - It is a close source like ARM [Adavnce risc machine]. It has specific intruction,very fast and efficient.
 
-11. RISC-V
+# RISC-V
  ![image](https://github.com/user-attachments/assets/e04ae075-8316-4bb6-95f4-b6c970723451)
    - It is based on RISC principles and develop in 2023 and which is a free open source. It also have a project called SHAKTI.
 
-12. KERNEL
-   - The kernel is a computer program at the core of a computer's operating system and generally has complete control over everything in        the system. The kernel is also responsible for preventing and mitigating conflicts between different processes.
+# KERNEL
+   - The kernel is a computer program at the core of a computer's operating system and generally has complete control over everything in the system. The kernel is also responsible for preventing and mitigating conflicts between different processes.
 
-13. IP Address (Internet Protocol address)
+# IP Address (Internet Protocol address)
    - It is a unique string of numbers separated by periods or colons that identifies each device connected to a network.             
    - IP addresses serve two primary functions-: identifying the host or network interface and providing the location of the host in the         network.                   
    - They are essential for routing internet traffic and ensuring data reaches the correct destination.
 
-14. ASIC (Application-Specific integrated circuit)
+# ASIC (Application-Specific integrated circuit)
     - It is a type of integrated circuit designed for a specific application or function, rather than general use.
 
-15. FPGA (Field Programmable Gate Array)
+# FPGA (Field Programmable Gate Array)
   - It is a type of integrated circuit that can be programmed or reprogrammed after manufacturing. It consists of an array of programmable logic block and interconnects that can be configured to perform various digital functions.
 
-16. ISP (Internet Service Provider)
+# ISP (Internet Service Provider)
 ![image](https://github.com/user-attachments/assets/a0ecc844-8b78-49f7-8f22-c9187614be84)
   
   - It is a company that offers access to the internet.
   - They provide various services such as broadband, fiber-optic, DSL, and satellite connections.
 
-17. DNS (Domain Name System)
-  - It functions like a phone book for the internet, translating human-friendly domain names (eg-: www.example.com) into IP addresses          (eg-: 192.0.2.1) that computers use to identify each other on the network.
-
-18. VPN (Virtual Private Network)
+# DNS (Domain Name System)
+  - It functions like a phone book for the internet, translating human-friendly domain names (eg-: www.example.com) into IP addresses (eg-: 192.0.2.1) that computers use to identify each other on the network.
+  
+ # VPN (Virtual Private Network)
  ![image](https://github.com/user-attachments/assets/80fc725c-8dd0-4d4c-b90d-b2ab2486cdb7)
-  - A VPN  is a service that creates a secure, encrypted connection over a less secure network, such as the internet. It allows you to         access the internet as if you were connected to a private network, providing privacy and security.
+  - A VPN  is a service that creates a secure, encrypted connection over a less secure network, such as the internet. It allows you to access the internet as if you were connected to a private network, providing privacy and security.
 
-19. Font end 
-  - Frontend refers to the client-side of a web application. It encompasses everything that users interact with directly in their web           browsers. 
+# Font end 
+  - Frontend refers to the client-side of a web application. It encompasses everything that users interact with directly in their web browsers. 
 
-20. Back end
-  - Backend refers to the server-side of a web application. It involves everything that happens on the server and is responsible for           managing and processing data.
+# Back end
+  - Backend refers to the server-side of a web application. It involves everything that happens on the server and is responsible for managing and processing data.
 
-21. API (Application Programming Interface)
+# API (Application Programming Interface)
   - It is a set of rules and protocols that allows different software applications to communicate with each other. APIs can be used to         connect Frontend and Backend.
 ![image](https://github.com/user-attachments/assets/2770b0a3-83e9-49c7-9ddb-c8fda3f409f1)
 
-
-22. Full Stack Development 
+ # Full Stack Development 
    ![image](https://github.com/user-attachments/assets/40df0bd0-d3e7-4132-81bc-3615d8714270)
    - It refers to the practice of working on both the front-end and back-end aspects of web applications.A full stack developer is proficient in all these areas, allowing them to build and maintain a complete web application from start to finish.       
    - A full stack developer is proficient in all these areas, allowing them to build and maintain a complete web application from start to finish.     
 
-23. OSI MODEL
+# OSI MODEL
     - (Open Systems Interconnection) model is a conceptual framework used to understand and standardize how different network protocols          interact and function.
 
     - It divides network communication into seven layers, each with specific responsibilities:
       ![image](https://github.com/user-attachments/assets/44472b7a-b4e5-4d1e-ae42-16dfaf890767)
 
-        • Physical Layer: Deals with the physical connection between devices, including cables, switches, and the electrical signals                                transmitted over them.
+        • Physical Layer : Deals with the physical connection between devices, including cables, switches, and the electrical signals transmitted over them.
 
-        • Data Link Layer: Manages the node-to-node data transfer and handles error detection and correction from the Physical Layer.                                Protocols like Ethernet and PPP operate here.
+        • Data Link Layer: Manages the node-to-node data transfer and handles error detection and correction from the Physical Layer. Protocols like Ethernet and PPP operate here.
 
-        • Network Layer: Handles data routing, addressing, and packet forwarding between devices across different networks. This layer is                          where IP (Internet Protocol) functions.
+        • Network Layer: Handles data routing, addressing, and packet forwarding between devices across different networks. This layer is where IP (Internet Protocol) functions.
 
-        • Transport Layer: Ensures reliable data transfer between devices by managing data segmentation, error detection, and flow                                   control. Common protocols include TCP (Transmission Control Protocol) and UDP (User Datagram Protocol).
+        • Transport Layer: Ensures reliable data transfer between devices by managing data segmentation, error detection, and flow control. Common protocols include TCP (Transmission Control Protocol) and UDP (User Datagram Protocol).
 
-        • Session Layer: Manages sessions or connections between applications, ensuring that sessions are properly established,                                    maintained, and terminated.
+        • Session Layer: Manages sessions or connections between applications, ensuring that sessions are properly established, maintained, and terminated.
 
-        • Presentation Layer: Translates data between the application layer and the network, handling data encryption, compression, and                                 translation. This layer ensures that data is presented in a readable format.
+        • Presentation Layer: Translates data between the application layer and the network, handling data encryption, compression, and translation. This layer ensures that data is presented in a readable format.
 
-        • Application Layer: The topmost layer, where end-user applications and network services operate. It provides network services                                 directly to end-user applications, such as HTTP for web browsing or SMTP for email.
+        • Application Layer: The topmost layer, where end-user applications and network services operate. It provides network services directly to end-user applications, such as HTTP for web browsing or SMTP for email.
+     
      - Each layer only interacts with the layers directly above and below it, which simplifies network design and troubleshooting.
 
 24. Semiconductors 
