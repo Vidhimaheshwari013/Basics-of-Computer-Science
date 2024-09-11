@@ -98,7 +98,8 @@
 
 # API (Application Programming Interface)
   - It is a set of rules and protocols that allows different software applications to communicate with each other. APIs can be used to         connect Frontend and Backend.
-![image](https://github.com/user-attachments/assets/2770b0a3-83e9-49c7-9ddb-c8fda3f409f1)
+
+# ![image](https://github.com/user-attachments/assets/2770b0a3-83e9-49c7-9ddb-c8fda3f409f1)
 
  # Full Stack Development 
    ![image](https://github.com/user-attachments/assets/40df0bd0-d3e7-4132-81bc-3615d8714270)
@@ -106,7 +107,7 @@
    - A full stack developer is proficient in all these areas, allowing them to build and maintain a complete web application from start to finish.     
 
 # OSI MODEL
-    - (Open Systems Interconnection) model is a conceptual framework used to understand and standardize how different network protocols          interact and function.
+    - (Open Systems Interconnection) model is a conceptual framework used to understand and standardize how different network protocols interact and function.
 
     - It divides network communication into seven layers, each with specific responsibilities:
       ![image](https://github.com/user-attachments/assets/44472b7a-b4e5-4d1e-ae42-16dfaf890767)
@@ -127,56 +128,59 @@
      
      - Each layer only interacts with the layers directly above and below it, which simplifies network design and troubleshooting.
 
-24. Semiconductors 
+# Semiconductors 
 ![image](https://github.com/user-attachments/assets/35d35a2a-24bb-480d-8026-e45e7c8ecd9e)
 
     - Semiconductors, also known as integrated circuits (ICs) or computer chips, are essential components of computers and other                electronic devices.
 
-26. Ethernet 
+# Ethernet 
    - Ethernet is a widely used networking technology that operates primarily at the Data Link Layer (Layer 2) of the OSI model.
    - It provides a method for devices to communicate over a local area network (LAN) using wired connections.
 ![image](https://github.com/user-attachments/assets/5b5eec91-59c2-414a-af4b-6366edf449af)
 
-26. Architecture
+# Architecture
    - X-86 :- Intel
    - AMD CISC :- Intel
    - AMD RISC :- ARM
 
-27. Hypervisor 
+# Hypervisor 
   - A hypervisor is software that enables virtualization by allowing multiple         virtual machines (VMs) to run on a single physical host machine.
   - It abstracts and allocates physical hardware resources (like CPU, memory,         and storage) to these virtual machines.
+ 
   - There are two main types of hypervisors:
-     • Type 1 Hypervisor (Bare-Metal Hypervisor): Runs directly on the physical hardware without an underlying operating system.                  
+      • Type 1 Hypervisor (Bare-Metal Hypervisor): Runs directly on the physical hardware without an underlying operating system.                  
+
      • Type 2 Hypervisor (Hosted Hypervisor): Runs on top of an existing operating system, which in turn runs on the physical hardware.                   
+
 ![image](https://github.com/user-attachments/assets/ec6609f0-93e1-4e4e-87eb-fb41a1b1afdf)
 
   - Hypervisors are fundamental in cloud computing and data center virtualization, enabling efficient resource utilization and                scalability.
 
-28. Virtual Machine 
+# Virtual Machine 
   - A virtual machine (VM) is a software-based emulation of a physical computer. It runs an operating system and applications just like a     physical computer, but it operates within a host machine and is managed by a hypervisor.
 ![image](https://github.com/user-attachments/assets/13d3f2ca-22d5-427a-9e61-06d933941135)
 
   - VMs enhance flexibility, efficiency, and scalability in IT environments.
 
-29. Cloud Computing
+# Cloud Computing
  ![image](https://github.com/user-attachments/assets/21ad8c84-5189-4748-9400-51f8873faa90)
  
   - Cloud computing is a model for delivering computing services over the internet.
   - It allows users to access and use computing resources such as servers, storage, databases, networking, software, and analytics            without managing the underlying hardware.
   
-30. Cloud computing service models -:                 
+# Cloud computing service models -:                 
      • IAAS (infrastructure as a service): Amazon web service(AWS),Google computer engine (GCE),Microsoft AZURE.                    
      • SAAS (software as a service): dropbox,google workspace,and salesforce.              
      • PAAS (platform as a service): VM Ware,oracle cloud platform(OCP),adobe commerce.            
 
-31. Types of Cloud -:
+# Types of Cloud -:
    - Public Cloud - It is cloud computing that`s delivered via the internet and shared accross thr organisation.
    - Private Cloud - It is a cloud computing that is dedicated solely to your organisation.
    - Hybrid Cloud- It is any environment that uses both public and private cloud.
 
-![image](https://github.com/user-attachments/assets/61da6374-4331-4810-9f66-0427de792173)
+# ![image](https://github.com/user-attachments/assets/61da6374-4331-4810-9f66-0427de792173)
 
-35. Protocols
+# Protocols
     ![image](https://github.com/user-attachments/assets/744e516c-a45a-4570-82cd-85896b6fc96d)
 
 
