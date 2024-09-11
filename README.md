@@ -184,6 +184,27 @@
 # Protocols
  ![image](https://github.com/user-attachments/assets/8b2031dd-707e-4a02-b513-d9654bf6e02b)
 
+ # Cryptography 
+ - crypt” means “hidden” and “graphy” means “writing”
+ - It is technique of securing information and communications through use of codes so that only those person for whom the information is intended can understand it and process it.
+
+ # Block chain 
+ - Blockchain is a digital ledger that stores data in blocks that are linked together to form a chain. It's a decentralized, public ledger that allows for transparent information sharing and secure transactions across a network of participants.
+   
+ # Crypto currency 
+ - Blockchain is the technology that enables the existence of cryptocurrency, such as Bitcoin, Ethereum, etc.
+
+- Bitcoin - it is a innovative payment network and a new kind of money. Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and everyone can take part.
+
+- Eethereum - It is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.Ethereum and its apps are transparent and open source.
+
+ # OOPS
+ # K8S 
+ # DevOps
+ # Route 53 
+ # S3 bucket 
+ 
+
  
 
 
