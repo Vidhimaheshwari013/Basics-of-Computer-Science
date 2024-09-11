@@ -84,6 +84,8 @@
     - (Open Systems Interconnection) model is a conceptual framework used to understand and standardize how different network protocols          interact and function.
 
     - It divides network communication into seven layers, each with specific responsibilities:
+      ![image](https://github.com/user-attachments/assets/44472b7a-b4e5-4d1e-ae42-16dfaf890767)
+
         • Physical Layer: Deals with the physical connection between devices, including cables, switches, and the electrical signals                                transmitted over them.
 
         • Data Link Layer: Manages the node-to-node data transfer and handles error detection and correction from the Physical Layer.                                Protocols like Ethernet and PPP operate here.
@@ -140,12 +142,15 @@
 
 33. DSA
 35. Protocols
+    ![image](https://github.com/user-attachments/assets/744e516c-a45a-4570-82cd-85896b6fc96d)
+
+
    
-36. DeVOPS
-37. Networking devices
-38. TOR
-39. Virtual Machine
-40. 
+37. DeVOPS
+38. Networking devices
+39. TOR
+40. Virtual Machine
 41. 
+42. 
 
 
