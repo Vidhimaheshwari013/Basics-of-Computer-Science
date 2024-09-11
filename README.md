@@ -14,6 +14,8 @@
         -  secondary storage - non-volatile, slow access to data, larger storage, eg-:hard disk, CD
 
 3. Network - Networking involves connecting computers and other devices to share resources and communicate.
+![image](https://github.com/user-attachments/assets/b44713c4-7199-4377-852b-39e853d782ca)
+
     -  LAN - local area network - private network, Intranet 
     -  WAN - wide area network - public netwrok, Internet
 
@@ -21,24 +23,28 @@
    - A System on Chip or an SoC is an integrated circuit that incorporates a majority of components present on a computer. SoC integrates       the replaceable components onto a single chip, thereby reducing the size and increasing efficiency.
 
 6. Open source and Closed source                                  
-   ~ open source - The source code of open-source software is made freely available to the public. Anyone can inspect, modify, and              distribute the code.This approach fosters collaboration, transparency, and innovation.                 
+![image](https://github.com/user-attachments/assets/752b51c2-2c37-4027-8354-39d2de744ba8)
+
+    ~ open source - The source code of open-source software is made freely available to the public. Anyone can inspect, modify, and              distribute the code.This approach fosters collaboration, transparency, and innovation.                 
    ~ eg-: Linux OS, Mozilla Firefox web browser                                  
    
    ~ closed source - Closed-source software has proprietary code that is not accessible to the public. Only the original developers can         modify or inspect the code. This model is often used to protect intellectual property and maintain control over the software.         
    ~ eg-: Microsoft windows, Adobe Photoshop
+![image](https://github.com/user-attachments/assets/54595682-c3cb-4c82-b370-0989c5d554a6)
 
-7. Operating system
+
+8. Operating system
    - An Operating system is system software that manages computer hardware and software resources and provides common services for              computer programs. it act as an intermediary between users and computer hardware.              
    - The most commonly used Operating System(OS)-:               
       • WINDOWS             
       • MACos             
       • LINUX          
 
-8. CISC (Complex Instruction Set Computer)
+9. CISC (Complex Instruction Set Computer)
    - It is a closed source like intel and AMD (advanced micro devices). It develop X-86 series under ISA [intruction set architecture] in           1978.
  
- 9. ARM (Advance RISC machine)
- 10. RISC (Reduced Instruction Set Computer)
+ 10. ARM (Advance RISC machine)
+ 11. RISC (Reduced Instruction Set Computer)
    - It is a close source like ARM [Adavnce risc machine]. It has specific intruction,very fast and efficient.
 
 11. RISC-V
