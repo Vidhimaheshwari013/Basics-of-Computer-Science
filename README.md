@@ -3,26 +3,29 @@
 
   Desktop - personal computer 
    It has mainly three parts :
-1. Computation - Computation refers to the process of performing mathematical calculations or processing data.
+# 1. Computation 
+- Computation refers to the process of performing mathematical calculations or processing data.
      Some terms -: 
      - CPU - central processing unit
      - GPU - graphics processing unit
      - DPU - data processing unit
      - TPU - tensor processing unit
 
-2. Storage - Storage in computing refers to the methods and devices used to save and retrieve data.
+# 2. Storage 
+- Storage in computing refers to the methods and devices used to save and retrieve data.
    ![image](https://github.com/user-attachments/assets/c335fee0-da8c-4fc2-8140-fd3678ddd9ea)
                  
         -  primary storage - volatile, fast access to data, small storage, eg-: RAM                                
         -  secondary storage - non-volatile, slow access to data, larger storage, eg-:hard disk, CD
 
-4. Network - Networking involves connecting computers and other devices to share resources and communicate.
+# 3. Network 
+- Networking involves connecting computers and other devices to share resources and communicate.
 ![image](https://github.com/user-attachments/assets/b44713c4-7199-4377-852b-39e853d782ca)
 
     -  LAN - local area network - private network, Intranet 
     -  WAN - wide area network - public netwrok, Internet
 
-5. .SOC (System on a Chip)
+# 4. .SOC (System on a Chip)
    - A System on Chip or an SoC is an integrated circuit that incorporates a majority of components present on a computer. SoC integrates       the replaceable components onto a single chip, thereby reducing the size and increasing efficiency.
 
 6. Open source and Closed source                                  
