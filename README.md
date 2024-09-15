@@ -1,5 +1,5 @@
 # keywords
- ! [image](https://github.com/user-attachments/assets/7750e1dc-69e4-417e-8b08-ca2b8d332e47)
+ ![image](https://github.com/user-attachments/assets/7750e1dc-69e4-417e-8b08-ca2b8d332e47)
 
 #  Desktop - personal computer 
    It has mainly three parts :
