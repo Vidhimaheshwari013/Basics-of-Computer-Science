@@ -155,7 +155,29 @@
 
 ![image](https://github.com/user-attachments/assets/ec6609f0-93e1-4e4e-87eb-fb41a1b1afdf)
 
-  - Hypervisors are fundamental in cloud computing and data center virtualization, enabling efficient resource utilization and                scalability.
+  - Hypervisors are fundamental in cloud computing and data center virtualization, enabling efficient resource utilization and scalability.
+
+# Virtual Machine 
+  - A virtual machine (VM) is a software-based emulation of a physical computer. It runs an operating system and applications just like a     physical computer, but it operates within a host machine and is managed by a hypervisor.
+![image](https://github.com/user-attachments/assets/13d3f2ca-22d5-427a-9e61-06d933941135)
+
+  - VMs enhance flexibility, efficiency, and scalability in IT environments.
+
+# Cloud Computing
+ ![image](https://github.com/user-attachments/assets/21ad8c84-5189-4748-9400-51f8873faa90)
+ 
+  - Cloud computing is a model for delivering computing services over the internet.
+  - It allows users to access and use computing resources such as servers, storage, databases, networking, software, and analytics            without managing the underlying hardware.
+  
+# Cloud computing service models -:                 
+     • IAAS (infrastructure as a service): Amazon web service(AWS),Google computer engine (GCE),Microsoft AZURE.                    
+     • SAAS (software as a service): dropbox,google workspace,and salesforce.              
+     • PAAS (platform as a service): VM Ware,oracle cloud platform(OCP),adobe commerce.            
+
+# Types of Cloud -:
+   - Public Cloud - It is cloud computing that`s delivered via the internet and shared accross thr organisation.
+   - Private Cloud - It is a cloud computing that is dedicated solely to your organisation.
+   - Hybrid Cloud- It is any environment that uses both public and private cloud.
 
 
 # ![image](https://github.com/user-attachments/assets/61da6374-4331-4810-9f66-0427de792173)
@@ -204,40 +226,3 @@ CI/CD-continous integration/continous deployment. now ,this is called platform e
 # Von Neumann architecture and harvard architecture 
 ![image](https://github.com/user-attachments/assets/35895153-5f68-465c-850b-d781f3aeaf83)
 - The term "von Neumann architecture" has evolved to refer to any stored-program computer in which an instruction fetch and a data operation cannot occur at the same time.
-
-# How to make a virtual machine ? 
-1.make an account on aws.
-
-2.select ec2 service.
-
-3.inside ec2 make an instance,
-
-4.For an instance select an os( operating system),
-
-5.make an key pair ( the key pair will automatically be downloaded).
-
-6 while making key pair select ppk type ,
-
-7.an public ip will be generated,
-
-8.launch the instance
-
-9. Install an putty ( search on google how to download putty for (the operating system you have chosen) and download it.
-
-10. After that open the putty and on ssh option paste the public ip from the instance,
-
-11.in the aut option select credentials and browse the key pair you have created in instance,
-
-12. Now to download a web server open putty and type :-sudo apt update, after that type :-sudo apt Install apache2,
-
-13. to remove the dollar sign type:- sudo su,
-
-14. after that the next step is to type :-/var/www/html/
-
-15. enter the above and on the next line type index.html
-
-16.after that type :-rm index.html
-
-17.enter the above and type :-vi index.html ( by writing this a new page will appear in which you have to either type html code aur copy paste it from GitHub),
-
-18.to run the code type :- control+c ,shift+ ,wq and enter
