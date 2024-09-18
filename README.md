@@ -157,27 +157,6 @@
 
   - Hypervisors are fundamental in cloud computing and data center virtualization, enabling efficient resource utilization and                scalability.
 
-# Virtual Machine 
-  - A virtual machine (VM) is a software-based emulation of a physical computer. It runs an operating system and applications just like a     physical computer, but it operates within a host machine and is managed by a hypervisor.
-![image](https://github.com/user-attachments/assets/13d3f2ca-22d5-427a-9e61-06d933941135)
-
-  - VMs enhance flexibility, efficiency, and scalability in IT environments.
-
-# Cloud Computing
- ![image](https://github.com/user-attachments/assets/21ad8c84-5189-4748-9400-51f8873faa90)
- 
-  - Cloud computing is a model for delivering computing services over the internet.
-  - It allows users to access and use computing resources such as servers, storage, databases, networking, software, and analytics            without managing the underlying hardware.
-  
-# Cloud computing service models -:                 
-     • IAAS (infrastructure as a service): Amazon web service(AWS),Google computer engine (GCE),Microsoft AZURE.                    
-     • SAAS (software as a service): dropbox,google workspace,and salesforce.              
-     • PAAS (platform as a service): VM Ware,oracle cloud platform(OCP),adobe commerce.            
-
-# Types of Cloud -:
-   - Public Cloud - It is cloud computing that`s delivered via the internet and shared accross thr organisation.
-   - Private Cloud - It is a cloud computing that is dedicated solely to your organisation.
-   - Hybrid Cloud- It is any environment that uses both public and private cloud.
 
 # ![image](https://github.com/user-attachments/assets/61da6374-4331-4810-9f66-0427de792173)
 
